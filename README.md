@@ -45,7 +45,7 @@ Estudando C, Python e fundamentos de desenvolvimento web.
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
+
 
 ### Backend
 
@@ -56,14 +56,18 @@ Estudando C, Python e fundamentos de desenvolvimento web.
 
 ### DevOps & Tools
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IgorSantos-Comp&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSantos-Comp&layout=compact&theme=tokyonight" />
+ <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IgorSantos-Comp&show_icons=true&theme=tokyonight&count_private=true" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IgorSantos-Comp&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IgorSantos-Comp&theme=tokyo-night&height=180"/>
 </p>
 
 ---
