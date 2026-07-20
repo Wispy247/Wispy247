@@ -65,22 +65,10 @@ Estudando C, Python e fundamentos de desenvolvimento web.
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=IgorSantos-Comp&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800"
-  />
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSantos-Comp&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=1800"
-  />
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=IgorSantos-Comp&theme=tokyo-night&height=180"
-  />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IgorSantos-Comp&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IgorSantos-Comp&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IgorSantos-Comp&theme=tokyo-night&height=180"/>
 </p>
-
----
 
 ## 🚀 Filosofia
 
