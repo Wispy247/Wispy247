@@ -5,7 +5,7 @@
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas.
 
-Interesse em programação, desenvolvimento de software e tecnologia.  
+Interesse em programação, desenvolvimento de software e tecnologia.
 Estudando C, Python e fundamentos de desenvolvimento web.
 
 🚀 Compartilhando projetos, estudos e evolução na área de desenvolvimento.
@@ -63,20 +63,6 @@ Estudando C, Python e fundamentos de desenvolvimento web.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IgorSantos-Comp&show_icons=true&theme=tokyonight&count_private=true" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSantos-Comp&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IgorSantos-Comp&theme=tokyo-night&height=180" />
-</p>
 
 ---
 
